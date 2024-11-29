@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<analyzerConfiguration version="14.0.1.867" analyzer="MetricThresholds">
+	<stringEntry value="0:2:WARNING" name="CoreDuplicatedLines:System"></stringEntry>
+	<stringEntry value="0:2:WARNING" name="CoreDuplicates:System"></stringEntry>
+	<stringEntry value="0:2:WARNING" name="CoreDuplicatesFixed:System"></stringEntry>
+</analyzerConfiguration>
