@@ -12,6 +12,7 @@ public class Producto {
     public String getNombre() {
         return nombre;
     }
+
     public int getPrecio() {
         return precio;
     }
@@ -19,10 +20,8 @@ public class Producto {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
     public void setPrecio(int precio) {
         this.precio = precio;
     }
-
-
-
 }
